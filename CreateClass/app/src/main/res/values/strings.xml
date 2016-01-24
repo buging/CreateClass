@@ -2,4 +2,8 @@
     <string name="app_name">CreateClass</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+
+    <!-- string grabaciones -->
+    <string name="titulo_grab">Listado De Grabaciones</string>
+
 </resources>
